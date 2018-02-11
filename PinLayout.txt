@@ -1,0 +1,24 @@
+
+Display
+-------
+Pin-1 --> GND
+Pin-2 --> +5V
+Pin-3 --> GND (or potentiometer)
+Pin-5 (RW) --> Pin-21 (GPIO9)
+Pin-4 (RS) --> Pin-37 (GPIO26)
+Pin-6 (E) --> Pin-35 (GPIO19)
+Pin-7 --> n/c
+Pin-8 --> n/c
+Pin-9 --> n/c
+Pin-10 --> n/c
+Pin-11 (D3) --> Pin-33 (GPIO13)
+Pin-12 (D2) --> Pin-31 (GPIO6)
+Pin-13 (D1) --> Pin-29 (GPIO5)
+Pin-14 (D0) --> Pin-23 (GPIO11)
+Pin-15 +5V
+Pin-16 GND
+
+Pin-36 (GPIO23) --> Led and resistor
+Pin-38 (GPIO20) --> (TRIG = 20
+Pin-40 (GPIO21) --> (ECHO = 21
+Pin-15 (GPIO22) --> (SENS)
